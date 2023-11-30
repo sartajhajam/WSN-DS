@@ -15,6 +15,6 @@ The experiment uses a simulated wireless sensor network-detection system (WSN-DS
 We use  a specialized dataset WSN-DS in order to classify four types of DoS attacks : Blackhole, Grayhole, Flooding, and Scheduling among normal network traﬃc. We will compare three feature selection methods with the Logistic Regression Classifier and Radndom forest witth over sampling , and examine their  performance with each method and ﬁnd the pair that chieve better results. We will propose an intelligent, eﬃcient, and learnable model using the  these classifiers  with applying feature reduction, and ensuring that the model's are  compatible with the characteristics of WSN. </br>
 
 ## Techniques Involoved 
-• Preprocessing data usiing various methods provoded by pandas and sklearn.</br>
+• Preprocessing data using various methods provided by pandas and sklearn.</br>
 • Implementation of predictive methods: Logistic Regression , regression, and Random Forest Classifier with oversampling .</br>
 • Implementation and  analysis methods in Python and Apache Spark.</br>
