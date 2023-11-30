@@ -16,5 +16,5 @@ We use  a specialized dataset WSN-DS in order to classify four types of DoS atta
 
 ## Techniques Involoved 
 • Preprocessing data using various methods provided by pandas and sklearn.</br>
-• Implementation of predictive methods: Logistic Regression , regression, and Random Forest Classifier with oversampling .</br>
+• Implementation of machine learning  methods: Logistic Regression , regression, and Random Forest Classifier with oversampling .</br>
 • Implementation and  analysis methods in Python and Apache Spark.</br>
